@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-shadowing-studio",
+  "name": "Shadowing Studio",
+  "version": "1.0.3",
+  "minAppVersion": "0.15.0",
+  "description": "Estúdio de Shadowing e Leitura Bilíngue em Loop com síntese de voz nativa e alinhamento automático de frases.",
+  "author": "Thiago Queiroz",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
